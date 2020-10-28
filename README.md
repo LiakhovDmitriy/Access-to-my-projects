@@ -5,11 +5,15 @@
 
 1. <a href="https://github.com/LiakhovDmitriy/Adidas_SpringMVC_release">"Adidas shop" on MVC</a>
 
-      ...шыовташыовтм
+      Spring MVC, Hibernate, JPA, SQL, JSP, JSTL, EL, DAO, Html, CSS, Bootstrap, JavaScript, Ajax.
 
 2. <a href="https://github.com/LiakhovDmitriy/Adidas_Servlet_release">"Adidas shop" on Servlet</a>
 
+      Servlet, JDBC, SQL, JSP, JSTL, EL, DAO, Html, CSS, Bootstrap, JavaScript, Ajax.
+
 3. <a href="https://github.com/LiakhovDmitriy/REST_JWT_Teacher_Student">REST api with JWT token</a>
+
+      Spring, REST, Hibernate, JPA, SQL, DAO.
 
 4. <a href="https://github.com/LiakhovDmitriy/WaterPipe">"WaterPipe" test task</a>
 
