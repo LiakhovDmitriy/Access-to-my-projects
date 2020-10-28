@@ -15,7 +15,7 @@
 
 + ["Java Start" home work](#JavaStart)
       
-======
+***
 
 
 <a name="AdidasMVC"><h2>"Adidas shop" on MVC</h2></a>
