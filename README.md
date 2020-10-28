@@ -3,8 +3,6 @@
 
 # Links to all my projects
 
-### Содержание
-
 1. ["Adidas shop" on MVC](#AdidasMVC)
 
 2. ["Adidas shop" on Servlet](#AdidasServlet)
