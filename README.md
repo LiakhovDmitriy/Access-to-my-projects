@@ -13,7 +13,7 @@
 
 + ["WaterPipe" test task](#WaterPipe)
 
-+ ["Java Start" home work](#Java Start)
++ ["Java Start" home work](#JavaStart)
 
 
 <a name="AdidasMVC"><h2>"Adidas shop" on MVC</h2></a>
@@ -26,10 +26,10 @@
 <a name="jwt"><h2>REST api with JWT token</h2></a>
 <a href="https://github.com/LiakhovDmitriy/REST_JWT_Teacher_Student"> link to project </a>
 
-<a name="jwt"><h2>"WaterPipe" test task</h2></a>
+<a name="WaterPipe"><h2>"WaterPipe" test task</h2></a>
 <a href="https://github.com/LiakhovDmitriy/WaterPipe"> link to project </a>
 
-<a name="jwt"><h2>"Java Start" home work</h2></a>
+<a name="JavaStart"><h2>"Java Start" home work</h2></a>
 <a href="https://github.com/LiakhovDmitriy/JavaStart"> link to project </a>
 + list
 
