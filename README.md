@@ -5,15 +5,15 @@
 
 ### Содержание
 
-+ ["Adidas shop" on MVC](#AdidasMVC)
+1. ["Adidas shop" on MVC](#AdidasMVC)
 
-+ ["Adidas shop" on Servlet](#AdidasServlet)
+2. ["Adidas shop" on Servlet](#AdidasServlet)
 
-+ [REST api with JWT token](#jwt)
+3. [REST api with JWT token](#jwt)
 
-+ ["WaterPipe" test task](#WaterPipe)
+4. ["WaterPipe" test task](#WaterPipe)
 
-+ ["Java Start" home work](#JavaStart)
+5. ["Java Start" home work](#JavaStart)
       
 ***
 
