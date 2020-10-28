@@ -3,33 +3,15 @@
 
 # Links to all my projects
 
-1. ["Adidas shop" on MVC](#AdidasMVC)
+1. <a href="https://github.com/LiakhovDmitriy/Adidas_SpringMVC_release">"Adidas shop" on MVC</a>
 
-2. ["Adidas shop" on Servlet](#AdidasServlet)
+2. <a href="https://github.com/LiakhovDmitriy/Adidas_Servlet_release">"Adidas shop" on Servlet</a>
 
-3. [REST api with JWT token](#jwt)
+3. <a href="https://github.com/LiakhovDmitriy/REST_JWT_Teacher_Student">REST api with JWT token</a>
 
-4. ["WaterPipe" test task](#WaterPipe)
+4. <a href="https://github.com/LiakhovDmitriy/WaterPipe">"WaterPipe" test task</a>
 
-5. ["Java Start" home work](#JavaStart)
+5. <a href="https://github.com/LiakhovDmitriy/JavaStart">"Java Start" home work</a>
       
 ***
-
-
-<a name="AdidasMVC"><h2>"Adidas shop" on MVC</h2></a>
-<a href="https://github.com/LiakhovDmitriy/Adidas_SpringMVC_release"> link to project </a>
-
-
-<a name="AdidasServlet"><h2>"Adidas shop" on Servlet</h2></a>
-<a href="https://github.com/LiakhovDmitriy/Adidas_Servlet_release"> link to project </a>
-
-<a name="jwt"><h2>REST api with JWT token</h2></a>
-<a href="https://github.com/LiakhovDmitriy/REST_JWT_Teacher_Student"> link to project </a>
-
-<a name="WaterPipe"><h2>"WaterPipe" test task</h2></a>
-<a href="https://github.com/LiakhovDmitriy/WaterPipe"> link to project </a>
-
-<a name="JavaStart"><h2>"Java Start" home work</h2></a>
-<a href="https://github.com/LiakhovDmitriy/JavaStart"> link to project </a>
-+ list
 
