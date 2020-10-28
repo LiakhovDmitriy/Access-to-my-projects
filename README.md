@@ -5,7 +5,7 @@
 
 1. <a href="https://github.com/LiakhovDmitriy/Adidas_SpringMVC_release">"Adidas shop" on MVC</a>
 
-...шыовташыовтм
+      ...шыовташыовтм
 
 2. <a href="https://github.com/LiakhovDmitriy/Adidas_Servlet_release">"Adidas shop" on Servlet</a>
 
