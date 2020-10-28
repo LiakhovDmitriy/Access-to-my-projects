@@ -12,6 +12,16 @@
 4. <a href="https://github.com/LiakhovDmitriy/WaterPipe">"WaterPipe" test task</a>
 
 5. <a href="https://github.com/LiakhovDmitriy/JavaStart">"Java Start" home work</a>
+
+6. <a href="https://github.com/LiakhovDmitriy/JavaCore">"Java Core" home work</a>
+
+7. <a href="https://github.com/LiakhovDmitriy/Exercises-with-Java-Core/settings">Exercises with Java Core</a>
+
+8. <a href="https://github.com/LiakhovDmitriy/Aplication">First attempts to write a web application</a>
+
+9. <a href="https://github.com/LiakhovDmitriy/WebApp-worker">WebApp-worker</a>
+
+10. <a href="https://github.com/LiakhovDmitriy/Best-Hello_world">Best-Hello_world</a>
       
 ***
 
