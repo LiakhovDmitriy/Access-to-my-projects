@@ -5,13 +5,13 @@
 
 ##### Содержание
 
-["Adidas shop" on MVC](#AdidasMVC)
++ ["Adidas shop" on MVC](#AdidasMVC)
 
-["Adidas shop" on Servlet](#AdidasServlet)
++ ["Adidas shop" on Servlet](#AdidasServlet)
 
-[REST api with JWT token](#jwt)
++ [REST api with JWT token](#jwt)
 
-["WaterPipe" test task](#WaterPipe)
++ ["WaterPipe" test task](#WaterPipe)
 
 
 <a name="AdidasMVC"><h2>"Adidas shop" on MVC</h2></a>
