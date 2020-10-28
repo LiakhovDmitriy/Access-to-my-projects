@@ -8,10 +8,15 @@
 
 ["Adidas shop" on Servlet](#AdidasServlet)
 
+[REST api with JWT token](#jwt)
+
 
 <a name="AdidasMVC"><h2>"Adidas shop" on MVC</h2></a>
-<a href="https://github.com/LiakhovDmitriy/Adidas_SpringMVC_release"> link </a>
+<a href="https://github.com/LiakhovDmitriy/Adidas_SpringMVC_release"> link to project </a>
 
 
 <a name="AdidasServlet"><h2>"Adidas shop" on Servlet</h2></a>
-<a href="https://github.com/LiakhovDmitriy/Adidas_Servlet_release"> link </a>
+<a href="https://github.com/LiakhovDmitriy/Adidas_Servlet_release"> link to project </a>
+
+<a name="jwt"><h2>REST api with JWT token</h2></a>
+<a href="https://github.com/LiakhovDmitriy/REST_JWT_Teacher_Student"> link to project </a>
